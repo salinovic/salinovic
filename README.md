@@ -12,7 +12,6 @@ Hi,i am Furkan<br>I love think and develop new things.<br>I am studying for Java
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salinovic&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salinovic&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
