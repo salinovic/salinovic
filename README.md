@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,i am Furkan<br>I love thinks and develop new things.<br>I am studying for Javascript and React native.<br>I am also learning for Firebase and Redux.
+Hi,i am Furkan<br>I love think and develop new things.<br>I am studying for Javascript and React native.<br>I am also learning for Firebase and Redux.
 
 
 ## 🌐 Socials:
